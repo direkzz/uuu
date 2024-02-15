@@ -5,5 +5,4 @@
 ### Bahan - Bahan : Sigma
 
 ### library :
-1.Js
-2.Py
+1.JavaScript
